@@ -13,12 +13,6 @@ const Intro = styled.div`
 
   a {
     background-image: none;
-    margin-right: 30px;
-    font-size: 1.5em;
-
-    &:hover {
-      cursor: pointer;
-    }
   }
 
   p {

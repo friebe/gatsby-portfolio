@@ -44,6 +44,7 @@ const Intros = styled.div`
     display: inline;
 
     &:hover {
+      cursor: pointer;
       transform: translateY(-0.25em);
       transition: all 0.15s ease-out;
     }
