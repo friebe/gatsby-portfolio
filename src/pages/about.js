@@ -46,7 +46,7 @@ const Image = styled.div`
   grid-row-start: 2;
 `
 
-export default function profile() {
+export default function about() {
   return (
     <Layout>
       <Intro>

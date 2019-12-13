@@ -75,7 +75,7 @@ const Header = () => (
         <Logo />
       </Link>
       <HeaderLinks>
-        <Link activeClassName="Link--is-active" to="/profile">
+        <Link activeClassName="Link--is-active" to="/about">
           Profile
         </Link>
         <Link activeClassName="Link--is-active" to="/work">
