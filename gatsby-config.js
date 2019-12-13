@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Jan Friebe Webentwicklung aus Gladbeck-Zweckel`,
+    title: `Jan Friebe Webentwicklung aus Gladbeck-Zweckel, NRW`,
     author: `Jan Friebe`,
     description: `Portfolio Seite von Jan Friebe`,
     siteUrl: `https://jan-friebe.de/`,
