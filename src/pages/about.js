@@ -1,7 +1,8 @@
 import React from "react"
 import Layout from "../components/layout"
 import styled from "styled-components"
-import Avatar from "../components/janfriebeavatar.png"
+import Avatar from "../components/avataaars.svg"
+import SEO from "../components/seo"
 
 const Intro = styled.div`
   color: #111d33;
@@ -32,23 +33,17 @@ const Intro = styled.div`
   }
 `
 const Container = styled.div`
+  margin: 3em 0 3em 0;
   display: grid;
-  grid-template-columns: 340px auto;
-  grid-template-rows: 50px auto 50px;
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
 `
-const Text = styled.div`
-  grid-column-start: 2;
-  grid-row-start: 2;
-  grid-row-end: span 1;
-`
-const Image = styled.div`
-  grid-column-start: 1;
-  grid-row-start: 2;
-`
+const Text = styled.div``
+const Image = styled.div``
 
 export default function about() {
   return (
     <Layout>
+      <SEO title="Profile" />
       <Intro>
         <h2>Curriculum vitae</h2>
         <h1>A German based and employed web developer from NRW.</h1>

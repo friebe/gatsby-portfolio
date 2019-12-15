@@ -2,6 +2,7 @@ import React from "react"
 import Layout from "../components/layout"
 import styled from "styled-components"
 import MediaLinks from "../components/MediaLinks"
+import SEO from "../components/seo"
 
 const Intro = styled.div`
   height: calc(100vh - 200px);
@@ -50,6 +51,7 @@ const Intro = styled.div`
 export default function work() {
   return (
     <Layout>
+      <SEO title="Work" />
       <Intro>
         <h2>Interest</h2>
         <h1>If you realy see my work</h1>

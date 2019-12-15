@@ -64,6 +64,7 @@ const Intro = () => {
       site {
         siteMetadata {
           author
+          title
           social {
             twitter
           }
@@ -72,34 +73,28 @@ const Intro = () => {
     }
   `)
 
-  const { author, social } = data.site.siteMetadata
+  const { author, social, title } = data.site.siteMetadata
+  console.log(data.site.siteMetadata)
   return (
-    <div
-      style={{
-        display: `flex`,
-        marginBottom: rhythm(2.5),
-      }}
-    >
-      <Intros>
-        <h2>Hello!</h2>
-        <h1>
-          My name is {author}.<br />I build things for the web.
-        </h1>
-        <p>
-          I am a frontend developer with an interest in new technologies. I
-          mostly build things in JavaScript.
-        </p>
+    <Intros>
+      <h2>Hello!</h2>
+      <h1>
+        My name is {author}.<br />I build things for the web.
+      </h1>
+      <p>
+        I am a frontend developer with an interest in new technologies. I mostly
+        build things in JavaScript.
+      </p>
 
-        <a
-          class=""
-          href="mailto:kontakt@jan-friebe.de"
-          target="_blank"
-          rel="noreferrer noopener"
-        >
-          <button class="">Get in touch</button>
-        </a>
-      </Intros>
-    </div>
+      <a
+        class=""
+        href="mailto:kontakt@jan-friebe.de"
+        target="_blank"
+        rel="noreferrer noopener"
+      >
+        <button class="">Get in touch</button>
+      </a>
+    </Intros>
   )
 }
 

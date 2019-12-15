@@ -2,6 +2,7 @@ import React from "react"
 import Layout from "../components/layout"
 import styled from "styled-components"
 import MediaLinks from "../components/MediaLinks"
+import SEO from "../components/seo"
 
 const Intro = styled.div`
   height: calc(100vh - 200px);
@@ -44,8 +45,7 @@ const Intro = styled.div`
 export default function contact() {
   return (
     <Layout>
-      <p></p>
-
+      <SEO title="Contact" />
       <Intro>
         <h2>Get in touch!</h2>
         <h1>Would you like to work with me or just discuss your projects?</h1>

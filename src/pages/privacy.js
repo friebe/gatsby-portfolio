@@ -1,9 +1,11 @@
 import React from "react"
 import Layout from "../components/layout"
+import SEO from "../components/seo"
 
 export default function privacy() {
   return (
     <Layout>
+      <SEO title="Privacy" />
       <h1>Datenschutzerklärung</h1>
       <p>
         Verantwortliche Stelle im Sinne der Datenschutzgesetze, insbesondere der

@@ -1,5 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
+import SEO from "./seo"
 
 import { rhythm, scale } from "../utils/typography"
 import Navigation from "./Navigation"
@@ -63,6 +64,7 @@ class Layout extends React.Component {
           padding: `${rhythm(3 / 4)}`,
         }}
       >
+        <SEO />
         <Navigation />
         {/* <header>{header}</header> */}
         <main>{children}</main>
