@@ -35,7 +35,8 @@ const Intro = styled.div`
 const Container = styled.div`
   margin: 3em 0 3em 0;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  /* grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); */
+  grid-template-columns: repeat(auto-fill, minmax(min(20rem, 100%), 1fr));
 `
 const Text = styled.div``
 const Image = styled.div``

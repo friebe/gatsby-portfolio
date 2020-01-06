@@ -8,7 +8,7 @@ import { rhythm, scale } from "../utils/typography"
 
 const BlogLayout = styled.div`
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(min(20rem, 100%), 1fr));
   grid-template-rows: 1fr auto;
 `
 
