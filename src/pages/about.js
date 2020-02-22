@@ -73,7 +73,7 @@ export default function about() {
             creativity on the web and that the world of programming languages
             offers endless possibilities. It fascinated me still today.
             <br />
-            <br /> At the moment I work as a developer at a small and yound IT company in the city
+            <br /> At the moment I work as a developer at a small and young IT company in the city
             Essen. Mostly I deal with design and frontend things. Especially
             I build a lot of things with JavaScript. I use different frameworks,
             libarys or static site generators from the ecosystem React.

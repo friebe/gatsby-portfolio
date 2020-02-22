@@ -55,7 +55,7 @@ export default function work() {
       <Intro>
         <h2>Interest</h2>
         <h1>If you realy see my work</h1>
-        <p>Feel free to visit my github or other sources</p>
+        <p>Feel free to visit my code repositories</p>
         <MediaLinks />
       </Intro>
     </Layout>
