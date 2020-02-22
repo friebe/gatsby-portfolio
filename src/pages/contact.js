@@ -50,8 +50,8 @@ export default function contact() {
         <h2>Get in touch!</h2>
         <h1>Would you like to work with me or just discuss your projects?</h1>
         <p>
-          Feel free to contact me via the social media links available on this
-          page footer by phone at +49 1575 9460303 or by mail at
+          Feel free to contact me via the social media links available on the
+          page footer, by phone at +49 1575 9460303 or by mail at
           kontakt[at]jan-friebe.de. I am looking forward to our cooperation.
         </p>
         <MediaLinks />

@@ -4,7 +4,7 @@ date: "2019-12-18"
 description: "Eine Geschmacksrichtung zur Typensicherheit in JavaScript Apps"
 ---
 
-Eine kleine und von mir persönlich angefertigte Zusammenfassung des Talks von Sophia Brandt https://sophiabrandt.com in der Dordtmunder https://softwerkskammer.org Loaction der Softwarkskammer.
+Eine kleine und von mir persönlich angefertigte Zusammenfassung des Talks von Sophia Brandt https://sophiabrandt.com in der Dortmunder https://softwerkskammer.org Loaction der Softwarkskammer.
 
 Sophia sprach über das Thema ReasenML https://reasonml.github.io/ eine wie man so will,
 Geschmacksrichtung für die Typensicherhet in JavaScript Applikationen.

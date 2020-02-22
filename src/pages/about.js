@@ -53,7 +53,7 @@ export default function about() {
             <img src={Avatar} alt="jan-friebe avatar" />
           </Image>
           <Text>
-            Born 1992 in Gelsenkirchen he has been working in the digital media
+            Born 1992 in Gelsenkirchen and has been working in the digital media
             since 2009.
             <br />
             <br />
@@ -65,7 +65,7 @@ export default function about() {
             for drawing, design and the dedication to art. After completing my
             education as a design assistant in digital and print media in 2012,
             I decided to extend my digital and technical skills in addition to
-            the creative part.I completed a further training as an IT specialist
+            the creative part. I completed a further training as an IT specialist
             in the field of application development in order to create a
             symbiosis between technology and design.
             <br />
@@ -73,26 +73,27 @@ export default function about() {
             creativity on the web and that the world of programming languages
             offers endless possibilities. It fascinated me still today.
             <br />
-            <br /> At the moment I work as a developer at a startup company in
-            Essen. Mostly I deal with frontend things and JavaScript. Especially
-            I build things with react.js. Besides the frontend development I
-            follow current web trends in articles and blogs. I am an
-            enthusiastic user of the newsreader app Feedly and love RSS feeds. I
+            <br /> At the moment I work as a developer at a small and yound IT company in the city
+            Essen. Mostly I deal with design and frontend things. Especially
+            I build a lot of things with JavaScript. I use different frameworks,
+            libarys or static site generators from the ecosystem React.
+            Besides the frontend development I follow current web trends in articles and blogs. I am an
+            enthusiastic user of the newsreader app Feedly and generelly I love RSS feeds. I
             like to attend online courses for further education and often take
             part in meetups, conferences, seminars, camps and workshops. I am
             happy to pass on my acquired knowledge at event talks. I like the
             variety and the people who burn with enthusiasm for their work.
             <br />
-            <br /> Besides topics of frontend development and the related UI/UX
+            <br /> Besides topics of frontend development and UI/UX
             I am interested in general topics like SEO and performance. Sports,
-            cooking or books about self-organization and biographies of great
-            personalities offer variety from everyday life.
+            cooking or books about self-organization, biographies of great
+            personalities and non fiction books offers me variety from my everyday life.
             <br />
-            <br /> As a JavaScript enthusiast I am interested in the basics of
-            the language, especially in UI frameworks, their ecosystems and
+            <br /> As a JavaScript lover and enthusiast I am interested in the basics of
+            the language, just like in UI frameworks, their ecosystems and
             toolings.
             <br />
-            <br /> I like to look at successful and beautiful web projects. Code
+            <br /> I like to look at successful and beautiful web projects and test them out. Code
             best practices, patterns and code quality a la{" "}
             <a href="https://www.clean-code-developer.de">clean code</a> play an
             important role in my everyday life as a developer.

@@ -79,7 +79,7 @@ const Intro = () => {
     <Intros>
       <h2>Hello!</h2>
       <h1>
-        My name is {author}.<br />I build things for the web.
+        My name is {author}.<br />I build and design things for the web.
       </h1>
       <p>
         I am a frontend developer with an interest in new technologies. I mostly
